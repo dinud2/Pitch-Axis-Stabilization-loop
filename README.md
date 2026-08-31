@@ -25,12 +25,3 @@ If the player above does not load, [watch the demo here](media/demo.mp4).
 
 Live tuning of `Kp`/`Ki`/`Kd`, setpoint, base throttle, and mix sign is exposed over the
 serial console, so gains can be adjusted without reflashing.
-
-## Build
-
-PlatformIO project targeting the ESP32:
-
-```bash
-pio run --target upload
-pio device monitor
-```
