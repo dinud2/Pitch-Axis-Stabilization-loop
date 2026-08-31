@@ -22,4 +22,4 @@ Click the clip for the full-quality video.
   base throttle.
 
 Live tuning of `Kp`/`Ki`/`Kd`, setpoint, base throttle, and mix sign is exposed over the
-serial console, so gains can be adjusted without in real-time without reflashing.
+serial console, so gains can be adjusted in real-time without reflashing.
