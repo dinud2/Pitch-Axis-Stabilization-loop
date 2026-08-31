@@ -9,7 +9,6 @@ against artificial disturbances.
 [![Pitch-axis stabilization demo](media/demo.gif)](media/demo.mp4)
 
 The arm is knocked off level by hand and the loop drives it back to the setpoint.
-Click the clip for the full-quality video.
 
 ## How it works
 
