@@ -6,10 +6,10 @@ against artificial disturbances.
 
 ## Demo
 
-<video src="https://github.com/dinud2/Pitch-Axis-Stabilization-loop/raw/main/media/demo.mp4" poster="https://github.com/dinud2/Pitch-Axis-Stabilization-loop/raw/main/media/demo-poster.jpg" width="320" controls muted playsinline></video>
+[![Pitch-axis stabilization demo](media/demo.gif)](media/demo.mp4)
 
 The arm is knocked off level by hand and the loop drives it back to the setpoint.
-[watch the demo here](media/demo.mp4).
+Click the clip for the full-quality video.
 
 ## How it works
 
